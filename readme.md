@@ -258,7 +258,7 @@
 - [Service Workers](https://github.com/TalAter/awesome-service-workers#readme)
 - [Progressive Web Apps](https://github.com/TalAter/awesome-progressive-web-apps#readme)
 - [choo](https://github.com/choojs/awesome-choo#readme) - App framework.
-- [Redux](https://github.com/brillout/awesome-redux#readme) - State container for JavaScript apps.
+- [Redux](https://github.com/xgrommx/awesome-redux#readme) - State container for JavaScript apps.
 - [webpack](https://github.com/webpack-contrib/awesome-webpack#readme) - Module bundler.
 - [Browserify](https://github.com/browserify/awesome-browserify#readme) - Module bundler.
 - [Sass](https://github.com/Famolus/awesome-sass#readme) - CSS preprocessor.
